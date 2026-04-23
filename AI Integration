@@ -1,4 +1,19 @@
 **THE USE OF AI IN THE DEVELOPMENT IN THIS PROJECT IS AS LISTED BELOW**
 
 
+Noah - Port Scanner AI use:
+
+AI: google browser ai
+Question - top 25 most commonly used ports on computer network
+https://www.google.com/search?q=top+25+most+commonly+used+ports+on+computer+network&sca_esv=d115e34c1a0f1aef&rlz=1C1HKFL_enUS1197US1197&sxsrf=ANbL-n4unueyX-zFyPM14YTx8RmKUsOrSg%3A1774988426522&ei=
+iizMafy4H-LewN4Pl5LCwA4&biw=1536&bih=730&ved=0ahUKEwj8pZKV-8qTAxViL9AFHReJEOgQ4dUDCBE&uact=5&oq=top+25+most+commonly+used+ports+on+computer+network&gs_lp=Egxnd3Mtd2l6LXNlcnAiM3RvcCAyNSB
+tb3N0IGNvbW1vbmx5IHVzZWQgcG9ydHMgb24gY29tcHV0ZXIgbmV0d29yazIIEAAYiQUYogQyCBAAGIAEGKIEMggQABiJBRiiBDIFEAAY7wUyCBAAGIAEGKIESNlDUIwHWJw9cAF4AZABAJgBogGgAd8NqgEEM
+C4xM7gBA8gBAPgBAZgCC6ACgQvCAgoQABhHGNYEGLADwgIHECMYsAIYJ8ICBBAhGArCAgoQIRgKGKABGMMEwgIIECEYoAEYwwSYAwCIBgGQBgiSBwQxLjEwoAeVM7IHBDAuMTC4B_EKwgcHMC42LjQuMcgHJoAIAQ&sclient=gws-wiz-serp
+
+Interpretation - I simply read the common ports which the AI pulled from other sources drawing on my own knowledge of extremely common ports to do a small fact check,
+80 443 22 and 20 should absolutely be on there, noted that telnet is no longer a commonly used port but should remain on the list for ecurity checking purposes.
+
+
+
+
 
