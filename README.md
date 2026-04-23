@@ -1,9 +1,9 @@
 # VSSD
 Vulnerability Scanner Suite and Digest
 
-A minimalist security suite and scanner:
+A minimalist security scanner:
 
 scans open TCP and UDP ports
 scans for OS and version
-scans passwords
-runs security findings/outputs (password itself not included) through AI to give overall security score, priority fixes, reccomendations
+scans passwords *does not save them or make any calls*
+runs security findings/outputs (password itself not included) to give overall security score, priority fixes, reccomendations
