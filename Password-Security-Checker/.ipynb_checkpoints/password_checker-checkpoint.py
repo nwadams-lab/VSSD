@@ -85,21 +85,21 @@ def password_strength(password):
     return results
 
 
-print("=== Password Strength Checker ===")
+#print("=== Password Strength Checker ===")
 
-password = input("Enter a password to test: ")
-result = password_strength(password)
+#password = input("Enter a password to test: ")
+#result = password_strength(password)
 
-print("\n=== PASSWORD REPORT ===")
+#print("\n=== PASSWORD REPORT ===")
 
-print(f"Score: {result['score']}/17")
+#print(f"Score: {result['score']}/17")
 
-if result["is_common"]:
-    print("This password is a COMMON or BREACHED password. Change it NOW!")
+#if result["is_common"]:
+#    print("This password is a COMMON or BREACHED password. Change it NOW!")
 
-print("\nIssues:")
-for issue in result["issues"]:
-    print(f"- {issue}")
+#print("\nIssues:")
+#for issue in result["issues"]:
+#    print(f"- {issue}")
 
 
 # In[ ]:
