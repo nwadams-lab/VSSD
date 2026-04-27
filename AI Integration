@@ -13,7 +13,18 @@ C4xM7gBA8gBAPgBAZgCC6ACgQvCAgoQABhHGNYEGLADwgIHECMYsAIYJ8ICBBAhGArCAgoQIRgKGKABG
 Interpretation - I simply read the common ports which the AI pulled from other sources drawing on my own knowledge of extremely common ports to do a small fact check,
 80 443 22 and 20 should absolutely be on there, noted that telnet is no longer a commonly used port but should remain on the list for ecurity checking purposes.
 
+Olivier - Password Checker AI use:
 
+AI: google browser (claude)
+Question: find me a source of the most common passwords
+
+The AI gave me some resources like Wikipedia, NordPass, etc. but the most interesting and diverse one I found was this github repo.
+link: https://github.com/danielmiessler/SecLists/tree/master/Passwords
+
+AI: ChatGPT
+Question: I asked the AI to help me debug the code (I was having errors that I couldn't figure out and I copy and pasted all of the code I had written)
+Answer: https://chatgpt.com/s/t_69efdb4db4f881918758d80078c519bb
+Interpretation: The AI gave me some pointers like score wasn't defined and I should've been using results["score"], the function never returned results, and incorrectly calling the is_common_password function.
 
 
 
