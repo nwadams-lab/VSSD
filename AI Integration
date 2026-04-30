@@ -26,5 +26,13 @@ Question: I asked the AI to help me debug the code (I was having errors that I c
 Answer: https://chatgpt.com/s/t_69efdb4db4f881918758d80078c519bb
 Interpretation: The AI gave me some pointers like score wasn't defined and I should've been using results["score"], the function never returned results, and incorrectly calling the is_common_password function. There was some extra stuff the AI wanted me to implement, like hashing, since I imported the hashlib module and was going to do stuff with it, but didn't have time.
 
+Dylan - OS Scanner AI use:
+
+Prompt: I asked the ai how can you compare the most recent os version to your os version in python?
+
+Chat Link: https://chatgpt.com/s/t_69dc1061aaa8819188823e01fdfdc234 
+
+Interpretation: finds recent windows version and compares them to the latest build number of window’s os
+
 
 
