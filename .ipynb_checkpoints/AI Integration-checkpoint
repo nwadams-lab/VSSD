@@ -17,22 +17,14 @@ Olivier - Password Checker AI use:
 
 AI: google browser (claude)
 Question: find me a source of the most common passwords
-Answer: don't have chat link, this was from the beginning of the project, but it listed 5-10 resources from the internet
-Interpretation: The AI gave me some resources like Wikipedia, NordPass, etc. but the most interesting and diverse one I found was this github repo.
+
+The AI gave me some resources like Wikipedia, NordPass, etc. but the most interesting and diverse one I found was this github repo.
 link: https://github.com/danielmiessler/SecLists/tree/master/Passwords
 
 AI: ChatGPT
 Question: I asked the AI to help me debug the code (I was having errors that I couldn't figure out and I copy and pasted all of the code I had written)
 Answer: https://chatgpt.com/s/t_69efdb4db4f881918758d80078c519bb
 Interpretation: The AI gave me some pointers like score wasn't defined and I should've been using results["score"], the function never returned results, and incorrectly calling the is_common_password function. There was some extra stuff the AI wanted me to implement, like hashing, since I imported the hashlib module and was going to do stuff with it, but didn't have time.
-
-Dylan - OS Scanner AI use:
-
-Prompt: I asked the ai how can you compare the most recent os version to your os version in python?
-
-Chat Link: https://chatgpt.com/s/t_69dc1061aaa8819188823e01fdfdc234 
-
-Interpretation: finds recent windows version and compares them to the latest build number of window’s os
 
 
 
