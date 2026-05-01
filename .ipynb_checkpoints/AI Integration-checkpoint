@@ -17,8 +17,8 @@ Olivier - Password Checker AI use:
 
 AI: google browser (claude)
 Question: find me a source of the most common passwords
-Answer: don't have chat link, this was from the beginning of the project, but it listed 5-10 resources from the internet
-Interpretation: The AI gave me some resources like Wikipedia, NordPass, etc. but the most interesting and diverse one I found was this github repo.
+
+The AI gave me some resources like Wikipedia, NordPass, etc. but the most interesting and diverse one I found was this github repo.
 link: https://github.com/danielmiessler/SecLists/tree/master/Passwords
 
 AI: ChatGPT
